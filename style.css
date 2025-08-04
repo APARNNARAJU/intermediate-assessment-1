@@ -1,0 +1,12 @@
+.title{
+    position: relative; left: 400px; font-size: 3em; color: rgb(36, 36, 36);
+}
+img{
+    height: 350px; position: relative;left: 90px; top: 160px;
+    border-radius: 50%; 
+    /* color: lightskyblue; */
+}
+.row .col-4{
+ position: relative;
+ left: 600px; bottom: 100px;height: 300px; width: 700px;
+}
