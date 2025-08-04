@@ -1,8 +1,3 @@
-var x=document.getElementsByClassName("title");
-x[0].addEventListener('mouseover',function f1(){
-    x[0].style.backgroundColor='wheat';
-    x[0].style.fontWeight = 'bold'; 
- })
 
 var z=document.getElementsByClassName("heading");
 z[0].addEventListener('mouseover',function f1(){
